@@ -1,0 +1,4 @@
+
+p	java:S116"URename this field "SERVER_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇŽ>8á‰â´Œ/
+u
+java:S1450"YRemove the "SERVER_URL" field and declare it as a local variable in the relevant methods.(ÇŽ>8¬Ç‘½Œ/
